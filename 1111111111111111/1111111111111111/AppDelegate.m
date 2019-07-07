@@ -23,6 +23,11 @@
     self.window.rootViewController = [[UINavigationController alloc]initWithRootViewController:[BindViewController new]];
     [self.window makeKeyAndVisible];
     
+    
+    
+    
+    //123456
+    
     return YES;
 }
 
